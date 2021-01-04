@@ -15,4 +15,4 @@ How to stay in a growth mindset. Here are my 3 examples.
 * Two
 * Three
 ### Table of contents
-- [Markdown Page] (markdown.md)
+- [Markdown Page](markdown.md)
