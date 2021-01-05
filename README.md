@@ -13,9 +13,9 @@ My Guthib portfolio page [https://github.com/fdcartwright](https://github.com/fd
 Growth mindset is the idea of putting yourself in the mindset for sucess by avoiding a fixed mind and fusing on positive thoughts. 
 
 *Here are my 3 examples of growth mindset.*
-- Be inspired by sucess of others
-- Embrace challenges
-- Learn from criticism
+1. Be inspired by sucess of others
+2. Embrace challenges
+3. Learn from criticism
 
 ### Table of contents
 - [Markdown Page](markdown.md)
