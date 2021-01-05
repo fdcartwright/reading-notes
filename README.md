@@ -5,7 +5,7 @@ Dan Cartwright
 This is a collection of my readings for Code Fellows.
 
 ### About Me
-I am Dan. I like to snowboard in the winter. 
+I am Dan and I like to snowboard in the winter(pre-COVID). I recently left Real Estate to pursue a career in JavaScript Software Development. I am excited to learn.
 
 My Guthib portfolio page https://github.com/fdcartwright
 
