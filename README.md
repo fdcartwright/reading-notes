@@ -20,4 +20,4 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 ### Table of contents
 - [Markdown Page](markdown.md)
 
-![Coding](/images/https://unsplash.com/photos/m_HRfLhgABo)
+![Coding](https://unsplash.com/photos/m_HRfLhgABo)
