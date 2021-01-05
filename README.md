@@ -17,7 +17,7 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 2. Embrace challenges
 3. Learn from criticism
 
-### Reading Table of contents
+### Reading Table of Contents
 - [Markdown Page](markdown.md)
 - [Coders Computer](Coders_Computer.md)
 - [Reflection and Discussion](Reflection_and_Discussion.md)
