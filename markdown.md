@@ -4,9 +4,9 @@ Markdown is a quick and easy way to create and style text on a webpage. Start by
 
 After creating your heading you will begin filling your website with paragraphs and/or ordered(1. 2. 3.)/unordered(* or -)lists. Here is an example of an list.
 Code
-\1. Coding is fun
-\2. Markdown is simple
-\3. Lists are easy
+-1. Coding is fun
+-2. Markdown is simple
+-3. Lists are easy
 
 1. Coding is fun
 2. Markdown is simple
