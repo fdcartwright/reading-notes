@@ -14,7 +14,7 @@ Code
 
 Have some fun with markdown by adding a photo using code \![Photo Description](URL/location HERE)\ or a link using code \[Link text](link URL/location)\. Here is a Photo Link:
 
-Code \![Mexico Vacation](https://www.sweepstakesbible.com/sites/default/files/sweep_imgs/vacations-united-contest.jpg)\
+Code \![Mexico Vacation](URL address)\
 ![Mexico Vacation](https://www.sweepstakesbible.com/sites/default/files/sweep_imgs/vacations-united-contest.jpg)
 
 [Home Page](README.md)
