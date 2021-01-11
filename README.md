@@ -33,7 +33,7 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 - [Dynamic web pages with .js](/102/Dynamic_webpages_with_js.md)
 
 ### Code 201 Reading Notes
-- [Discussions] (DISCUSSION.md)
+- [Discussions](DISCUSSION.md)
 - [Class 01 Reading Notes](/201/class-01.md)
 
 
