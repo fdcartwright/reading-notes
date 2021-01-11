@@ -1,4 +1,6 @@
-# Author
+# Code 201 Reading Notes
+
+## Author
 Dan Cartwright
 
 ## Description
@@ -17,18 +19,22 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 2. Embrace challenges
 3. Learn from criticism
 
-### Reading Table of Contents
+## Reading Table of Contents
+
+### Code 102 Reading Notes
+- [Markdown Page](/102/markdown.md)
+- [Coders Computer](/102/Coders_Computer.md)
+- [Reflection and Discussion](/102/Reflection_and_Discussion.md)
+- [Structure Webpages in HTML](/102/Structure_webpages_HTML.md)
+- [Operators and Loops](/102/Operators_Loops.md)
+- [Programming with js](/102/Programming_with_JS.md)
+- [Computers Architehture & Logic](/102/Computer_Architechture_logic.md)
+- [Design with CSS](/102/Design_with_CSS.md)
+- [Dynamic web pages with .js](/102/Dynamic_webpages_with_js.md)
+
+### Code 201 Reading Notes
 - [Discussions] (DISCUSSION.md)
-- [102 Markdown Page](/102/markdown.md)
-- [102 Coders Computer](/102/Coders_Computer.md)
-- [102 Reflection and Discussion](/102/Reflection_and_Discussion.md)
-- [102 Structure Webpages in HTML](/102/Structure_webpages_HTML.md)
-- [102 Operators and Loops](/102/Operators_Loops.md)
-- [102 Programming with js](/102/Programming_with_JS.md)
-- [102 Computers Architehture & Logic](/102/Computer_Architechture_logic.md)
-- [102 Design with CSS](/102/Design_with_CSS.md)
-- [102 Dynamic web pages with .js](/102/Dynamic_webpages_with_js.md)
-- [201 Class 01 Reading Notes](/201/class-01.md)
+- [Class 01 Reading Notes](/201/class-01.md)
 
 
 
