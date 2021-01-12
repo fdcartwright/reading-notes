@@ -7,11 +7,11 @@ There are six levels of h1 headers, each progressively getting small in size. Pa
 
 A short list:
 
-<h1> = header
-<p> = paraghraph
-<b> = bold
-<I> = italic
-<br> = break
+\<h1> = header
+\<p> = paraghraph
+\<b> = bold
+\<i> = italic
+\<br> = break
 <strong> = importance
 
 ## HTML Intro CSS
