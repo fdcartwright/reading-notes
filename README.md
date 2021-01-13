@@ -35,7 +35,8 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 ### Code 201 Reading Notes
 - [Discussions](DISCUSSION.md)
 - [Class 01 Reading Notes](/201/class-01.md)
-- [HTML Text, CSS Intro, Basic .JS](/201/class-02.md)
+- [Class 01 HTML Text, CSS Intro, Basic .JS](/201/class-02.md)
+- [ Class 03 HTML Lists, CSS Boxes, .JS Control Flow](class-03.md)
 
 
 
