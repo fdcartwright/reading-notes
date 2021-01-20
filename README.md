@@ -39,6 +39,7 @@ Growth mindset is the idea of putting yourself in the mindset for sucess by avoi
 - [Class 03 HTML Lists, CSS Boxes, .JS Control Flow](/201/class-03.md)
 - [Class 04 HTML Links, CSS Layout, JS Functions](/201/class-04.md)
 - [Class 05 HTML Images, CSS Color & Text](/201/class-05.md)
+- [Class 06 Problem Domain Objects and the DOM](/201/class-06.md)
 
 
 ![Coding](https://image.freepik.com/free-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg)
